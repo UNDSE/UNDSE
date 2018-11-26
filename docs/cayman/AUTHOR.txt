@@ -1,0 +1,5 @@
+# -----------------------------------------------------------------
+# Author    : Prabhat Kumar — http://prabhatkumar.org/.
+# Copyright : Sequømics Corporation — http://sequomics.com/.
+# Thanks    : Ben Balter, https://github.com/benbalter/
+# -----------------------------------------------------------------
