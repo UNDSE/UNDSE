@@ -10,4 +10,6 @@
 ### Contributing
 UNDSE is open source. If you would like to contribute to the site, please visit the [contributing guide](https://github.com/UNDSE/UNDSE/blob/master/docs/CONTRIBUTING.md) to get started.
 
+### UNDSE<sup>®</sup> [![GPL License](https://img.shields.io/badge/license-GPL-blue.svg)](https://github.com/UNDSE/UNDSE/blob/master/LICENSE)
+
 ｢०｣ • ॐ
