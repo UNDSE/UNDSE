@@ -1,1 +1,5 @@
 # Configuration for lock-threads - https://github.com/dessant/lock-threads
+# UNiversal Declarations for Sun and Earth.
+# —————————
+# Number of days of inactivity before a closed issue or pull request is locked
+daysUntilLock: 365
